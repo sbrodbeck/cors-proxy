@@ -1,0 +1,26 @@
+{
+  "name": "cors-proxy",
+  "version": "1.0.0",
+  "description": "A quick proxy using cors-anywhere",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uugengiven/cors-proxy.git"
+  },
+  "keywords": [
+    "cors"
+  ],
+  "author": "John Lange",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uugengiven/cors-proxy/issues"
+  },
+  "homepage": "https://github.com/uugengiven/cors-proxy#readme",
+  "dependencies": {
+    "cors-anywhere": "^0.4.1"
+  }
+}
